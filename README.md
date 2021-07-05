@@ -1,7 +1,7 @@
 Index Array API
 ===============
 
-![Capsule shape with Index Array's spiral filter.](screenshot.png)
+![Capsule shape with spiral filter.](screenshot.png)
 
 Overview
 --------
@@ -11,7 +11,7 @@ Index Array API is for use with the visual programming language Max. Written in 
 Documentation & Usage
 ---------------------
 
-The source code has complete documentation, and `index_array.maxpat` is an example implementation.
+The source code has complete documentation, and `example.maxpat` is an example implementation.
 
 License
 -------
